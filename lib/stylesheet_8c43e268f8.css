@@ -1,0 +1,6 @@
+/* default styles for extension "tx_felogin_pi1" */
+	.tx-felogin-pi1 label {
+		display: block;
+	}
+/* specific page styles for extension "tx_cssstyledcontent" */
+	.csc-space-after-20 { margin-bottom: 20px !important; }
